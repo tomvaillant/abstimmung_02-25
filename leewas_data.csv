@@ -1,0 +1,5 @@
+id,time,percent_yes,percent_no,lower_bound,upper_bound,share_counted,label,result,title_de,title_fr,type,standesstimmen
+6730,16:49:50,47.3,52.7,46.89,47.69,1.0,Klarer Trend,Nein,Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen,Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales,final,-1
+6740,16:51:10,48.42,51.58,48.03,48.83,1.0,Klarer Trend,Nein,Mietrecht: Untermiete,droit du bail: sous-location,final,-1
+6750,16:53:57,46.17,53.83,45.78,46.58,1.0,Klarer Trend,Nein,Mietrecht: Kündigung wegen Eigenbedarfs,droit du bail: résiliation pour besoin propre,final,-1
+6760,16:55:20,53.31,46.69,52.86,53.66,1.0,Klarer Trend,Ja,KVG,LAMal,final,-1
