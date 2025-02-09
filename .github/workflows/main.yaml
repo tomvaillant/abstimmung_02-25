@@ -22,6 +22,8 @@ jobs:
     - name: Format Abstimmung Data
       run: |
         jupyter nbconvert --to notebook --execute "abstimmung.ipynb" --stdout
+    - name: Format Leewas Data
+      run: |
         jupyter nbconvert --to notebook --execute "leewas.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
