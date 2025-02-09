@@ -5,8 +5,8 @@ permissions:
   
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/8 * * * *'
+  # schedule:
+     # - cron: '*/8 * * * *'
 jobs:
   daily:
     runs-on: ubuntu-latest
