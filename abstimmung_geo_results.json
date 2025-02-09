@@ -8049,7 +8049,7 @@
         "geoLevelnummer": "3",
         "geoLevelname": "Luzern",
         "resultat": {
-          "vorlageBeendet": false,
+          "vorlageBeendet": true,
           "anzahlBezirkeAusgezaehlt": 7,
           "anzahlBezirke": 7,
           "anzahlGemeindenAusgezaehlt": 80,
@@ -10741,34 +10741,34 @@
         "geoLevelname": "Zug",
         "resultat": {
           "vorlageBeendet": false,
-          "anzahlBezirkeAusgezaehlt": 0,
+          "anzahlBezirkeAusgezaehlt": 1,
           "anzahlBezirke": 1,
-          "anzahlGemeindenAusgezaehlt": 0,
+          "anzahlGemeindenAusgezaehlt": 11,
           "anzahlGemeinden": 11,
-          "gebietAusgezaehlt": false,
-          "jaStimmenInProzent": null,
-          "jaStimmenAbsolut": null,
-          "neinStimmenAbsolut": null,
-          "stimmbeteiligungInProzent": null,
-          "eingelegteStimmzettel": null,
-          "anzahlStimmberechtigte": null,
-          "gueltigeStimmen": null
+          "gebietAusgezaehlt": true,
+          "jaStimmenInProzent": 22.838992455,
+          "jaStimmenAbsolut": 8233,
+          "neinStimmenAbsolut": 27815,
+          "stimmbeteiligungInProzent": 45.521092748,
+          "eingelegteStimmzettel": 36192,
+          "anzahlStimmberechtigte": 79506,
+          "gueltigeStimmen": 36048
         },
         "bezirke": [
           {
             "geoLevelnummer": "900",
             "geoLevelname": "Kanton Zug",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 0,
+              "anzahlGemeindenAusgezaehlt": 11,
               "anzahlGemeinden": 11,
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 22.838992455,
+              "jaStimmenAbsolut": 8233,
+              "neinStimmenAbsolut": 27815,
+              "stimmbeteiligungInProzent": 45.521092748,
+              "eingelegteStimmzettel": 36192,
+              "anzahlStimmberechtigte": 79506,
+              "gueltigeStimmen": 36048
             }
           }
         ],
@@ -10778,14 +10778,14 @@
             "geoLevelname": "Baar",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 20.817430025,
+              "jaStimmenAbsolut": 1309,
+              "neinStimmenAbsolut": 4979,
+              "stimmbeteiligungInProzent": 42.85908227,
+              "eingelegteStimmzettel": 6314,
+              "anzahlStimmberechtigte": 14732,
+              "gueltigeStimmen": 6288
             }
           },
           {
@@ -10793,14 +10793,14 @@
             "geoLevelname": "Cham",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 24.2974492,
+              "jaStimmenAbsolut": 1124,
+              "neinStimmenAbsolut": 3502,
+              "stimmbeteiligungInProzent": 42.264941691,
+              "eingelegteStimmzettel": 4639,
+              "anzahlStimmberechtigte": 10976,
+              "gueltigeStimmen": 4626
             }
           },
           {
@@ -10808,14 +10808,14 @@
             "geoLevelname": "Hünenberg",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 21.889821233,
+              "jaStimmenAbsolut": 600,
+              "neinStimmenAbsolut": 2141,
+              "stimmbeteiligungInProzent": 45.349604222,
+              "eingelegteStimmzettel": 2750,
+              "anzahlStimmberechtigte": 6064,
+              "gueltigeStimmen": 2741
             }
           },
           {
@@ -10823,14 +10823,14 @@
             "geoLevelname": "Menzingen",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 20.347222222,
+              "jaStimmenAbsolut": 293,
+              "neinStimmenAbsolut": 1147,
+              "stimmbeteiligungInProzent": 45.72243346,
+              "eingelegteStimmzettel": 1443,
+              "anzahlStimmberechtigte": 3156,
+              "gueltigeStimmen": 1440
             }
           },
           {
@@ -10838,14 +10838,14 @@
             "geoLevelname": "Neuheim",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 14.836795252,
+              "jaStimmenAbsolut": 100,
+              "neinStimmenAbsolut": 574,
+              "stimmbeteiligungInProzent": 43.641058748,
+              "eingelegteStimmzettel": 676,
+              "anzahlStimmberechtigte": 1549,
+              "gueltigeStimmen": 674
             }
           },
           {
@@ -10853,14 +10853,14 @@
             "geoLevelname": "Oberägeri",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 16.123595506,
+              "jaStimmenAbsolut": 287,
+              "neinStimmenAbsolut": 1493,
+              "stimmbeteiligungInProzent": 45.687228052,
+              "eingelegteStimmzettel": 1785,
+              "anzahlStimmberechtigte": 3907,
+              "gueltigeStimmen": 1780
             }
           },
           {
@@ -10868,14 +10868,14 @@
             "geoLevelname": "Risch",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 17.829181495,
+              "jaStimmenAbsolut": 501,
+              "neinStimmenAbsolut": 2309,
+              "stimmbeteiligungInProzent": 39.745942131,
+              "eingelegteStimmzettel": 2816,
+              "anzahlStimmberechtigte": 7085,
+              "gueltigeStimmen": 2810
             }
           },
           {
@@ -10883,14 +10883,14 @@
             "geoLevelname": "Steinhausen",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 25.101513474,
+              "jaStimmenAbsolut": 680,
+              "neinStimmenAbsolut": 2029,
+              "stimmbeteiligungInProzent": 42.457401907,
+              "eingelegteStimmzettel": 2716,
+              "anzahlStimmberechtigte": 6397,
+              "gueltigeStimmen": 2709
             }
           },
           {
@@ -10898,14 +10898,14 @@
             "geoLevelname": "Unterägeri",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 21.358460934,
+              "jaStimmenAbsolut": 544,
+              "neinStimmenAbsolut": 2003,
+              "stimmbeteiligungInProzent": 42.962962963,
+              "eingelegteStimmzettel": 2552,
+              "anzahlStimmberechtigte": 5940,
+              "gueltigeStimmen": 2547
             }
           },
           {
@@ -10913,14 +10913,14 @@
             "geoLevelname": "Walchwil",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 17.140238313,
+              "jaStimmenAbsolut": 187,
+              "neinStimmenAbsolut": 904,
+              "stimmbeteiligungInProzent": 48.972296693,
+              "eingelegteStimmzettel": 1096,
+              "anzahlStimmberechtigte": 2238,
+              "gueltigeStimmen": 1091
             }
           },
           {
@@ -10928,14 +10928,14 @@
             "geoLevelname": "Zug",
             "geoLevelParentnummer": "900",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 27.916934275,
+              "jaStimmenAbsolut": 2608,
+              "neinStimmenAbsolut": 6734,
+              "stimmbeteiligungInProzent": 53.859809873,
+              "eingelegteStimmzettel": 9405,
+              "anzahlStimmberechtigte": 17462,
+              "gueltigeStimmen": 9342
             }
           }
         ]
@@ -24759,48 +24759,48 @@
           "vorlageBeendet": false,
           "anzahlBezirkeAusgezaehlt": 1,
           "anzahlBezirke": 8,
-          "anzahlGemeindenAusgezaehlt": 61,
+          "anzahlGemeindenAusgezaehlt": 81,
           "anzahlGemeinden": 106,
           "gebietAusgezaehlt": false,
-          "jaStimmenInProzent": 29.82397653,
-          "jaStimmenAbsolut": 8946,
-          "neinStimmenAbsolut": 21050,
-          "stimmbeteiligungInProzent": 34.771700953,
-          "eingelegteStimmzettel": 30492,
-          "anzahlStimmberechtigte": 87692,
-          "gueltigeStimmen": 29996
+          "jaStimmenInProzent": 30.732389691,
+          "jaStimmenAbsolut": 12962,
+          "neinStimmenAbsolut": 29215,
+          "stimmbeteiligungInProzent": 35.015744563,
+          "eingelegteStimmzettel": 42923,
+          "anzahlStimmberechtigte": 122582,
+          "gueltigeStimmen": 42177
         },
         "bezirke": [
           {
             "geoLevelnummer": "2101",
             "geoLevelname": "Distretto di Bellinzona",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 4,
+              "anzahlGemeindenAusgezaehlt": 5,
               "anzahlGemeinden": 6,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 24.344827586,
-              "jaStimmenAbsolut": 353,
-              "neinStimmenAbsolut": 1097,
-              "stimmbeteiligungInProzent": 32.339297548,
-              "eingelegteStimmzettel": 1464,
-              "anzahlStimmberechtigte": 4527,
-              "gueltigeStimmen": 1450
+              "jaStimmenInProzent": 27.397831526,
+              "jaStimmenAbsolut": 657,
+              "neinStimmenAbsolut": 1741,
+              "stimmbeteiligungInProzent": 31.967106122,
+              "eingelegteStimmzettel": 2449,
+              "anzahlStimmberechtigte": 7661,
+              "gueltigeStimmen": 2398
             }
           },
           {
             "geoLevelnummer": "2102",
             "geoLevelname": "Distretto di Blenio",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 1,
+              "anzahlGemeindenAusgezaehlt": 2,
               "anzahlGemeinden": 3,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 23.399558499,
-              "jaStimmenAbsolut": 106,
-              "neinStimmenAbsolut": 347,
-              "stimmbeteiligungInProzent": 30.992572586,
-              "eingelegteStimmzettel": 459,
-              "anzahlStimmberechtigte": 1481,
-              "gueltigeStimmen": 453
+              "jaStimmenInProzent": 23.661971831,
+              "jaStimmenAbsolut": 252,
+              "neinStimmenAbsolut": 813,
+              "stimmbeteiligungInProzent": 31.715210356,
+              "eingelegteStimmzettel": 1078,
+              "anzahlStimmberechtigte": 3399,
+              "gueltigeStimmen": 1065
             }
           },
           {
@@ -24823,48 +24823,48 @@
             "geoLevelnummer": "2104",
             "geoLevelname": "Distretto di Locarno",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 9,
+              "anzahlGemeindenAusgezaehlt": 13,
               "anzahlGemeinden": 19,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 31.674958541,
-              "jaStimmenAbsolut": 2483,
-              "neinStimmenAbsolut": 5356,
-              "stimmbeteiligungInProzent": 33.262455701,
-              "eingelegteStimmzettel": 7978,
-              "anzahlStimmberechtigte": 23985,
-              "gueltigeStimmen": 7839
+              "jaStimmenInProzent": 31.460380969,
+              "jaStimmenAbsolut": 3617,
+              "neinStimmenAbsolut": 7880,
+              "stimmbeteiligungInProzent": 34.388210427,
+              "eingelegteStimmzettel": 11714,
+              "anzahlStimmberechtigte": 34064,
+              "gueltigeStimmen": 11497
             }
           },
           {
             "geoLevelnummer": "2105",
             "geoLevelname": "Distretto di Lugano",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 25,
+              "anzahlGemeindenAusgezaehlt": 37,
               "anzahlGemeinden": 47,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 29.635937833,
-              "jaStimmenAbsolut": 2784,
-              "neinStimmenAbsolut": 6610,
-              "stimmbeteiligungInProzent": 36.259309926,
-              "eingelegteStimmzettel": 9542,
-              "anzahlStimmberechtigte": 26316,
-              "gueltigeStimmen": 9394
+              "jaStimmenInProzent": 32.007600577,
+              "jaStimmenAbsolut": 4885,
+              "neinStimmenAbsolut": 10377,
+              "stimmbeteiligungInProzent": 36.043756968,
+              "eingelegteStimmzettel": 15519,
+              "anzahlStimmberechtigte": 43056,
+              "gueltigeStimmen": 15262
             }
           },
           {
             "geoLevelnummer": "2106",
             "geoLevelname": "Distretto di Mendrisio",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 8,
+              "anzahlGemeindenAusgezaehlt": 9,
               "anzahlGemeinden": 11,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 32.306798373,
-              "jaStimmenAbsolut": 2224,
-              "neinStimmenAbsolut": 4660,
-              "stimmbeteiligungInProzent": 34.984797887,
-              "eingelegteStimmzettel": 7019,
-              "anzahlStimmberechtigte": 20063,
-              "gueltigeStimmen": 6884
+              "jaStimmenInProzent": 32.07047291,
+              "jaStimmenAbsolut": 2421,
+              "neinStimmenAbsolut": 5128,
+              "stimmbeteiligungInProzent": 35.04896379,
+              "eingelegteStimmzettel": 7695,
+              "anzahlStimmberechtigte": 21955,
+              "gueltigeStimmen": 7549
             }
           },
           {
@@ -24887,16 +24887,16 @@
             "geoLevelnummer": "2108",
             "geoLevelname": "Distretto di Vallemaggia",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 3,
+              "anzahlGemeindenAusgezaehlt": 4,
               "anzahlGemeinden": 8,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 28.466076696,
-              "jaStimmenAbsolut": 193,
-              "neinStimmenAbsolut": 485,
-              "stimmbeteiligungInProzent": 32.979749277,
-              "eingelegteStimmzettel": 684,
-              "anzahlStimmberechtigte": 2074,
-              "gueltigeStimmen": 678
+              "jaStimmenInProzent": 29.512635379,
+              "jaStimmenAbsolut": 327,
+              "neinStimmenAbsolut": 781,
+              "stimmbeteiligungInProzent": 35.051546392,
+              "eingelegteStimmzettel": 1122,
+              "anzahlStimmberechtigte": 3201,
+              "gueltigeStimmen": 1108
             }
           }
         ],
@@ -24906,14 +24906,14 @@
             "geoLevelname": "Arbedo-Castione",
             "geoLevelParentnummer": "2101",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 32.067510549,
+              "jaStimmenAbsolut": 304,
+              "neinStimmenAbsolut": 644,
+              "stimmbeteiligungInProzent": 31.429483089,
+              "eingelegteStimmzettel": 985,
+              "anzahlStimmberechtigte": 3134,
+              "gueltigeStimmen": 948
             }
           },
           {
@@ -25026,14 +25026,14 @@
             "geoLevelname": "Serravalle",
             "geoLevelParentnummer": "2102",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 23.85620915,
+              "jaStimmenAbsolut": 146,
+              "neinStimmenAbsolut": 466,
+              "stimmbeteiligungInProzent": 32.273201251,
+              "eingelegteStimmzettel": 619,
+              "anzahlStimmberechtigte": 1918,
+              "gueltigeStimmen": 612
             }
           },
           {
@@ -25191,14 +25191,14 @@
             "geoLevelname": "Ascona",
             "geoLevelParentnummer": "2104",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 26.597325409,
+              "jaStimmenAbsolut": 358,
+              "neinStimmenAbsolut": 988,
+              "stimmbeteiligungInProzent": 38.327721661,
+              "eingelegteStimmzettel": 1366,
+              "anzahlStimmberechtigte": 3564,
+              "gueltigeStimmen": 1346
             }
           },
           {
@@ -25251,14 +25251,14 @@
             "geoLevelname": "Lavertezzo",
             "geoLevelParentnummer": "2104",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 21.860465116,
+              "jaStimmenAbsolut": 47,
+              "neinStimmenAbsolut": 168,
+              "stimmbeteiligungInProzent": 30.843706777,
+              "eingelegteStimmzettel": 223,
+              "anzahlStimmberechtigte": 723,
+              "gueltigeStimmen": 215
             }
           },
           {
@@ -25311,14 +25311,14 @@
             "geoLevelname": "Minusio",
             "geoLevelParentnummer": "2104",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 33.754810335,
+              "jaStimmenAbsolut": 614,
+              "neinStimmenAbsolut": 1205,
+              "stimmbeteiligungInProzent": 38.250358533,
+              "eingelegteStimmzettel": 1867,
+              "anzahlStimmberechtigte": 4881,
+              "gueltigeStimmen": 1819
             }
           },
           {
@@ -25446,14 +25446,14 @@
             "geoLevelname": "Arogno",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 36.956521739,
+              "jaStimmenAbsolut": 85,
+              "neinStimmenAbsolut": 145,
+              "stimmbeteiligungInProzent": 33.477011494,
+              "eingelegteStimmzettel": 233,
+              "anzahlStimmberechtigte": 696,
+              "gueltigeStimmen": 230
             }
           },
           {
@@ -25461,14 +25461,14 @@
             "geoLevelname": "Astano",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 47.826086957,
+              "jaStimmenAbsolut": 55,
+              "neinStimmenAbsolut": 60,
+              "stimmbeteiligungInProzent": 42.704626335,
+              "eingelegteStimmzettel": 120,
+              "anzahlStimmberechtigte": 281,
+              "gueltigeStimmen": 115
             }
           },
           {
@@ -25641,14 +25641,14 @@
             "geoLevelname": "Curio",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 65.294117647,
+              "jaStimmenAbsolut": 111,
+              "neinStimmenAbsolut": 59,
+              "stimmbeteiligungInProzent": 38.105726872,
+              "eingelegteStimmzettel": 173,
+              "anzahlStimmberechtigte": 454,
+              "gueltigeStimmen": 170
             }
           },
           {
@@ -25686,14 +25686,14 @@
             "geoLevelname": "Lamone",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 39.877300613,
+              "jaStimmenAbsolut": 130,
+              "neinStimmenAbsolut": 196,
+              "stimmbeteiligungInProzent": 33.95252838,
+              "eingelegteStimmzettel": 329,
+              "anzahlStimmberechtigte": 969,
+              "gueltigeStimmen": 326
             }
           },
           {
@@ -25716,14 +25716,14 @@
             "geoLevelname": "Magliaso",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 29.683698297,
+              "jaStimmenAbsolut": 122,
+              "neinStimmenAbsolut": 289,
+              "stimmbeteiligungInProzent": 37.176050045,
+              "eingelegteStimmzettel": 416,
+              "anzahlStimmberechtigte": 1119,
+              "gueltigeStimmen": 411
             }
           },
           {
@@ -25746,14 +25746,14 @@
             "geoLevelname": "Massagno",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 34.981684982,
+              "jaStimmenAbsolut": 382,
+              "neinStimmenAbsolut": 710,
+              "stimmbeteiligungInProzent": 33.373241544,
+              "eingelegteStimmzettel": 1115,
+              "anzahlStimmberechtigte": 3341,
+              "gueltigeStimmen": 1092
             }
           },
           {
@@ -25761,14 +25761,14 @@
             "geoLevelname": "Melide",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 26.956521739,
+              "jaStimmenAbsolut": 93,
+              "neinStimmenAbsolut": 252,
+              "stimmbeteiligungInProzent": 35.887096774,
+              "eingelegteStimmzettel": 356,
+              "anzahlStimmberechtigte": 992,
+              "gueltigeStimmen": 345
             }
           },
           {
@@ -25836,14 +25836,14 @@
             "geoLevelname": "Neggio",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 33.043478261,
+              "jaStimmenAbsolut": 38,
+              "neinStimmenAbsolut": 77,
+              "stimmbeteiligungInProzent": 43.773584906,
+              "eingelegteStimmzettel": 116,
+              "anzahlStimmberechtigte": 265,
+              "gueltigeStimmen": 115
             }
           },
           {
@@ -25881,14 +25881,14 @@
             "geoLevelname": "Paradiso",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 31.772575251,
+              "jaStimmenAbsolut": 190,
+              "neinStimmenAbsolut": 408,
+              "stimmbeteiligungInProzent": 34.727793696,
+              "eingelegteStimmzettel": 606,
+              "anzahlStimmberechtigte": 1745,
+              "gueltigeStimmen": 598
             }
           },
           {
@@ -25896,14 +25896,14 @@
             "geoLevelname": "Ponte Capriasca",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 30.827067669,
+              "jaStimmenAbsolut": 164,
+              "neinStimmenAbsolut": 368,
+              "stimmbeteiligungInProzent": 40.465465465,
+              "eingelegteStimmzettel": 539,
+              "anzahlStimmberechtigte": 1332,
+              "gueltigeStimmen": 532
             }
           },
           {
@@ -25971,14 +25971,14 @@
             "geoLevelname": "Capriasca",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 37.969713965,
+              "jaStimmenAbsolut": 677,
+              "neinStimmenAbsolut": 1106,
+              "stimmbeteiligungInProzent": 35.649960846,
+              "eingelegteStimmzettel": 1821,
+              "anzahlStimmberechtigte": 5108,
+              "gueltigeStimmen": 1783
             }
           },
           {
@@ -26001,14 +26001,14 @@
             "geoLevelname": "Vernate",
             "geoLevelParentnummer": "2105",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 35.761589404,
+              "jaStimmenAbsolut": 54,
+              "neinStimmenAbsolut": 97,
+              "stimmbeteiligungInProzent": 34.931506849,
+              "eingelegteStimmzettel": 153,
+              "anzahlStimmberechtigte": 438,
+              "gueltigeStimmen": 151
             }
           },
           {
@@ -26226,14 +26226,14 @@
             "geoLevelname": "Riva San Vitale",
             "geoLevelParentnummer": "2106",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 29.62406015,
+              "jaStimmenAbsolut": 197,
+              "neinStimmenAbsolut": 468,
+              "stimmbeteiligungInProzent": 35.729386892,
+              "eingelegteStimmzettel": 676,
+              "anzahlStimmberechtigte": 1892,
+              "gueltigeStimmen": 665
             }
           },
           {
@@ -26421,14 +26421,14 @@
             "geoLevelname": "Avegno Gordevio",
             "geoLevelParentnummer": "2108",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 31.162790698,
+              "jaStimmenAbsolut": 134,
+              "neinStimmenAbsolut": 296,
+              "stimmbeteiligungInProzent": 38.864241349,
+              "eingelegteStimmzettel": 438,
+              "anzahlStimmberechtigte": 1127,
+              "gueltigeStimmen": 430
             }
           },
           {
@@ -26451,14 +26451,14 @@
             "geoLevelname": "Centovalli",
             "geoLevelParentnummer": "2104",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 41.366906475,
+              "jaStimmenAbsolut": 115,
+              "neinStimmenAbsolut": 163,
+              "stimmbeteiligungInProzent": 30.735455543,
+              "eingelegteStimmzettel": 280,
+              "anzahlStimmberechtigte": 911,
+              "gueltigeStimmen": 278
             }
           },
           {
@@ -33306,32 +33306,32 @@
           "vorlageBeendet": false,
           "anzahlBezirkeAusgezaehlt": 0,
           "anzahlBezirke": 1,
-          "anzahlGemeindenAusgezaehlt": 19,
+          "anzahlGemeindenAusgezaehlt": 21,
           "anzahlGemeinden": 24,
           "gebietAusgezaehlt": false,
-          "jaStimmenInProzent": 36.738655666,
-          "jaStimmenAbsolut": 7570,
-          "neinStimmenAbsolut": 13035,
-          "stimmbeteiligungInProzent": 34.102908864,
-          "eingelegteStimmzettel": 20798,
-          "anzahlStimmberechtigte": 60986,
-          "gueltigeStimmen": 20605
+          "jaStimmenInProzent": 36.602628918,
+          "jaStimmenAbsolut": 7964,
+          "neinStimmenAbsolut": 13794,
+          "stimmbeteiligungInProzent": 34.136558672,
+          "eingelegteStimmzettel": 21958,
+          "anzahlStimmberechtigte": 64324,
+          "gueltigeStimmen": 21758
         },
         "bezirke": [
           {
             "geoLevelnummer": "2400",
             "geoLevelname": "Canton de Neuchâtel",
             "resultat": {
-              "anzahlGemeindenAusgezaehlt": 19,
+              "anzahlGemeindenAusgezaehlt": 21,
               "anzahlGemeinden": 24,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 36.738655666,
-              "jaStimmenAbsolut": 7570,
-              "neinStimmenAbsolut": 13035,
-              "stimmbeteiligungInProzent": 34.102908864,
-              "eingelegteStimmzettel": 20798,
-              "anzahlStimmberechtigte": 60986,
-              "gueltigeStimmen": 20605
+              "jaStimmenInProzent": 36.602628918,
+              "jaStimmenAbsolut": 7964,
+              "neinStimmenAbsolut": 13794,
+              "stimmbeteiligungInProzent": 34.136558672,
+              "eingelegteStimmzettel": 21958,
+              "anzahlStimmberechtigte": 64324,
+              "gueltigeStimmen": 21758
             }
           }
         ],
@@ -33431,14 +33431,14 @@
             "geoLevelname": "Les Planchettes",
             "geoLevelParentnummer": "2400",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 28.767123288,
+              "jaStimmenAbsolut": 21,
+              "neinStimmenAbsolut": 52,
+              "stimmbeteiligungInProzent": 46.496815287,
+              "eingelegteStimmzettel": 73,
+              "anzahlStimmberechtigte": 157,
+              "gueltigeStimmen": 73
             }
           },
           {
@@ -33581,14 +33581,14 @@
             "geoLevelname": "Le Landeron",
             "geoLevelParentnummer": "2400",
             "resultat": {
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": null,
-              "jaStimmenAbsolut": null,
-              "neinStimmenAbsolut": null,
-              "stimmbeteiligungInProzent": null,
-              "eingelegteStimmzettel": null,
-              "anzahlStimmberechtigte": null,
-              "gueltigeStimmen": null
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 34.537037037,
+              "jaStimmenAbsolut": 373,
+              "neinStimmenAbsolut": 707,
+              "stimmbeteiligungInProzent": 34.171644137,
+              "eingelegteStimmzettel": 1087,
+              "anzahlStimmberechtigte": 3181,
+              "gueltigeStimmen": 1080
             }
           },
           {
