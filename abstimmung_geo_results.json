@@ -24756,7 +24756,7 @@
         "geoLevelnummer": "21",
         "geoLevelname": "Ticino",
         "resultat": {
-          "vorlageBeendet": false,
+          "vorlageBeendet": true,
           "anzahlBezirkeAusgezaehlt": 8,
           "anzahlBezirke": 8,
           "anzahlGemeindenAusgezaehlt": 106,
@@ -33702,7 +33702,7 @@
         "geoLevelnummer": "25",
         "geoLevelname": "Genève",
         "resultat": {
-          "vorlageBeendet": false,
+          "vorlageBeendet": true,
           "anzahlBezirkeAusgezaehlt": 2,
           "anzahlBezirke": 2,
           "anzahlGemeindenAusgezaehlt": 46,

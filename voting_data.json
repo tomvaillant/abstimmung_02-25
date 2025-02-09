@@ -1,6 +1,6 @@
 {
   "abstimmtag": "20250209",
-  "timestamp": "2025-02-09T14:05:50",
+  "timestamp": "2025-02-09T14:16:04",
   "spatial_reference": [
     {
       "spatial_unit": "kant",
@@ -24809,7 +24809,7 @@
             "geoLevelnummer": "21",
             "geoLevelname": "Ticino",
             "resultat": {
-              "vorlageBeendet": false,
+              "vorlageBeendet": true,
               "anzahlBezirkeAusgezaehlt": 8,
               "anzahlBezirke": 8,
               "anzahlGemeindenAusgezaehlt": 106,
@@ -33755,7 +33755,7 @@
             "geoLevelnummer": "25",
             "geoLevelname": "Genève",
             "resultat": {
-              "vorlageBeendet": false,
+              "vorlageBeendet": true,
               "anzahlBezirkeAusgezaehlt": 2,
               "anzahlBezirke": 2,
               "anzahlGemeindenAusgezaehlt": 46,
