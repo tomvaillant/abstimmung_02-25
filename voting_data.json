@@ -1,6 +1,6 @@
 {
   "abstimmtag": "20250209",
-  "timestamp": "2025-02-09T12:33:13",
+  "timestamp": "2025-02-09T12:36:11",
   "spatial_reference": [
     {
       "spatial_unit": "kant",
@@ -54,27 +54,27 @@
         "doppeltesMehr": true,
         "staende": {
           "jaStaendeGanz": 0,
-          "neinStaendeGanz": 3,
-          "anzahlStaendeGanz": 3,
+          "neinStaendeGanz": 4,
+          "anzahlStaendeGanz": 4,
           "jaStaendeHalb": 0,
           "neinStaendeHalb": 1,
           "anzahlStaendeHalb": 1
         },
         "resultat": {
-          "anzahlKantoneAusgezaehlt": 4,
+          "anzahlKantoneAusgezaehlt": 5,
           "anzahlKantone": 26,
-          "anzahlBezirkeAusgezaehlt": 71,
+          "anzahlBezirkeAusgezaehlt": 75,
           "anzahlBezirke": 155,
-          "anzahlGemeindenAusgezaehlt": 1321,
+          "anzahlGemeindenAusgezaehlt": 1326,
           "anzahlGemeinden": 2128,
           "gebietAusgezaehlt": false,
-          "jaStimmenInProzent": 27.916299677,
-          "jaStimmenAbsolut": 356887,
-          "neinStimmenAbsolut": 921531,
-          "stimmbeteiligungInProzent": 38.247346956,
-          "eingelegteStimmzettel": 1291349,
-          "anzahlStimmberechtigte": 3376310,
-          "gueltigeStimmen": 1278418
+          "jaStimmenInProzent": 27.961016132,
+          "jaStimmenAbsolut": 362037,
+          "neinStimmenAbsolut": 932755,
+          "stimmbeteiligungInProzent": 38.142357208,
+          "eingelegteStimmzettel": 1308017,
+          "anzahlStimmberechtigte": 3429303,
+          "gueltigeStimmen": 1294792
         },
         "kantone": [
           {
@@ -82,18 +82,18 @@
             "geoLevelname": "Zürich",
             "resultat": {
               "vorlageBeendet": false,
-              "anzahlBezirkeAusgezaehlt": 5,
+              "anzahlBezirkeAusgezaehlt": 6,
               "anzahlBezirke": 13,
-              "anzahlGemeindenAusgezaehlt": 149,
+              "anzahlGemeindenAusgezaehlt": 150,
               "anzahlGemeinden": 161,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 25.331569137,
-              "jaStimmenAbsolut": 56669,
-              "neinStimmenAbsolut": 167040,
-              "stimmbeteiligungInProzent": 39.726879801,
-              "eingelegteStimmzettel": 224729,
-              "anzahlStimmberechtigte": 565685,
-              "gueltigeStimmen": 223709
+              "jaStimmenInProzent": 25.400901672,
+              "jaStimmenAbsolut": 57863,
+              "neinStimmenAbsolut": 169936,
+              "stimmbeteiligungInProzent": 39.730943105,
+              "eingelegteStimmzettel": 228855,
+              "anzahlStimmberechtigte": 576012,
+              "gueltigeStimmen": 227799
             },
             "bezirke": [
               {
@@ -212,16 +212,16 @@
                 "geoLevelnummer": "108",
                 "geoLevelname": "Bezirk Pfäffikon",
                 "resultat": {
-                  "anzahlGemeindenAusgezaehlt": 9,
+                  "anzahlGemeindenAusgezaehlt": 10,
                   "anzahlGemeinden": 10,
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": 24.142185211,
-                  "jaStimmenAbsolut": 3131,
-                  "neinStimmenAbsolut": 9838,
-                  "stimmbeteiligungInProzent": 42.681648431,
-                  "eingelegteStimmzettel": 13029,
-                  "anzahlStimmberechtigte": 30526,
-                  "gueltigeStimmen": 12969
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 25.353186002,
+                  "jaStimmenAbsolut": 4325,
+                  "neinStimmenAbsolut": 12734,
+                  "stimmbeteiligungInProzent": 41.99202017,
+                  "eingelegteStimmzettel": 17155,
+                  "anzahlStimmberechtigte": 40853,
+                  "gueltigeStimmen": 17059
                 }
               },
               {
@@ -2666,14 +2666,14 @@
                 "geoLevelname": "Illnau-Effretikon",
                 "geoLevelParentnummer": "108",
                 "resultat": {
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 29.193154034,
+                  "jaStimmenAbsolut": 1194,
+                  "neinStimmenAbsolut": 2896,
+                  "stimmbeteiligungInProzent": 39.953519899,
+                  "eingelegteStimmzettel": 4126,
+                  "anzahlStimmberechtigte": 10327,
+                  "gueltigeStimmen": 4090
                 }
               },
               {
@@ -26553,16 +26553,16 @@
               "vorlageBeendet": false,
               "anzahlBezirkeAusgezaehlt": 9,
               "anzahlBezirke": 11,
-              "anzahlGemeindenAusgezaehlt": 298,
+              "anzahlGemeindenAusgezaehlt": 299,
               "anzahlGemeinden": 301,
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 38.331043511,
-              "jaStimmenAbsolut": 65006,
-              "neinStimmenAbsolut": 104585,
-              "stimmbeteiligungInProzent": 37.624850114,
-              "eingelegteStimmzettel": 172265,
-              "anzahlStimmberechtigte": 457849,
-              "gueltigeStimmen": 169591
+              "jaStimmenInProzent": 38.30905365,
+              "jaStimmenAbsolut": 65243,
+              "neinStimmenAbsolut": 105064,
+              "stimmbeteiligungInProzent": 37.530427086,
+              "eingelegteStimmzettel": 172992,
+              "anzahlStimmberechtigte": 460938,
+              "gueltigeStimmen": 170307
             },
             "bezirke": [
               {
@@ -26585,16 +26585,16 @@
                 "geoLevelnummer": "2222",
                 "geoLevelname": "District de la Broye-Vully",
                 "resultat": {
-                  "anzahlGemeindenAusgezaehlt": 29,
+                  "anzahlGemeindenAusgezaehlt": 30,
                   "anzahlGemeinden": 31,
                   "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": 28.069381599,
-                  "jaStimmenAbsolut": 1861,
-                  "neinStimmenAbsolut": 4769,
-                  "stimmbeteiligungInProzent": 37.505587841,
-                  "eingelegteStimmzettel": 6712,
-                  "anzahlStimmberechtigte": 17896,
-                  "gueltigeStimmen": 6630
+                  "jaStimmenInProzent": 28.559760414,
+                  "jaStimmenAbsolut": 2098,
+                  "neinStimmenAbsolut": 5248,
+                  "stimmbeteiligungInProzent": 35.449130331,
+                  "eingelegteStimmzettel": 7439,
+                  "anzahlStimmberechtigte": 20985,
+                  "gueltigeStimmen": 7346
                 }
               },
               {
@@ -27183,14 +27183,14 @@
                 "geoLevelname": "Avenches",
                 "geoLevelParentnummer": "2222",
                 "resultat": {
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 33.100558659,
+                  "jaStimmenAbsolut": 237,
+                  "neinStimmenAbsolut": 479,
+                  "stimmbeteiligungInProzent": 23.535124636,
+                  "eingelegteStimmzettel": 727,
+                  "anzahlStimmberechtigte": 3089,
+                  "gueltigeStimmen": 716
                 }
               },
               {
@@ -31265,18 +31265,18 @@
             "geoLevelname": "Valais / Wallis",
             "resultat": {
               "vorlageBeendet": false,
-              "anzahlBezirkeAusgezaehlt": 11,
+              "anzahlBezirkeAusgezaehlt": 14,
               "anzahlBezirke": 14,
-              "anzahlGemeindenAusgezaehlt": 120,
+              "anzahlGemeindenAusgezaehlt": 123,
               "anzahlGemeinden": 123,
-              "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 22.235849193,
-              "jaStimmenAbsolut": 15411,
-              "neinStimmenAbsolut": 53896,
-              "stimmbeteiligungInProzent": 36.153649299,
-              "eingelegteStimmzettel": 70637,
-              "anzahlStimmberechtigte": 195380,
-              "gueltigeStimmen": 69307
+              "gebietAusgezaehlt": true,
+              "jaStimmenInProzent": 23.653786708,
+              "jaStimmenAbsolut": 19130,
+              "neinStimmenAbsolut": 61745,
+              "stimmbeteiligungInProzent": 35.092378605,
+              "eingelegteStimmzettel": 82452,
+              "anzahlStimmberechtigte": 234957,
+              "gueltigeStimmen": 80875
             },
             "bezirke": [
               {
@@ -31395,16 +31395,16 @@
                 "geoLevelnummer": "2308",
                 "geoLevelname": "District de Monthey",
                 "resultat": {
-                  "anzahlGemeindenAusgezaehlt": 8,
+                  "anzahlGemeindenAusgezaehlt": 9,
                   "anzahlGemeinden": 9,
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": 22.564270509,
-                  "jaStimmenAbsolut": 1378,
-                  "neinStimmenAbsolut": 4729,
-                  "stimmbeteiligungInProzent": 33.007037409,
-                  "eingelegteStimmzettel": 6238,
-                  "anzahlStimmberechtigte": 18899,
-                  "gueltigeStimmen": 6107
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 23.949488352,
+                  "jaStimmenAbsolut": 2200,
+                  "neinStimmenAbsolut": 6986,
+                  "stimmbeteiligungInProzent": 32.361144589,
+                  "eingelegteStimmzettel": 9398,
+                  "anzahlStimmberechtigte": 29041,
+                  "gueltigeStimmen": 9186
                 }
               },
               {
@@ -31459,16 +31459,16 @@
                 "geoLevelnummer": "2312",
                 "geoLevelname": "District de Sion",
                 "resultat": {
-                  "anzahlGemeindenAusgezaehlt": 4,
+                  "anzahlGemeindenAusgezaehlt": 5,
                   "anzahlGemeinden": 5,
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": 25.508077124,
-                  "jaStimmenAbsolut": 979,
-                  "neinStimmenAbsolut": 2859,
-                  "stimmbeteiligungInProzent": 39.391190404,
-                  "eingelegteStimmzettel": 3908,
-                  "anzahlStimmberechtigte": 9921,
-                  "gueltigeStimmen": 3838
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 30.18474914,
+                  "jaStimmenAbsolut": 3333,
+                  "neinStimmenAbsolut": 7709,
+                  "stimmbeteiligungInProzent": 35.269408123,
+                  "eingelegteStimmzettel": 11167,
+                  "anzahlStimmberechtigte": 31662,
+                  "gueltigeStimmen": 11042
                 }
               },
               {
@@ -31491,16 +31491,16 @@
                 "geoLevelnummer": "9230",
                 "geoLevelname": "VS-CH de l'étranger",
                 "resultat": {
-                  "anzahlGemeindenAusgezaehlt": 0,
+                  "anzahlGemeindenAusgezaehlt": 1,
                   "anzahlGemeinden": 1,
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 42.256809339,
+                  "jaStimmenAbsolut": 543,
+                  "neinStimmenAbsolut": 742,
+                  "stimmbeteiligungInProzent": 18.144008318,
+                  "eingelegteStimmzettel": 1396,
+                  "anzahlStimmberechtigte": 7694,
+                  "gueltigeStimmen": 1285
                 }
               }
             ],
@@ -32335,14 +32335,14 @@
                 "geoLevelname": "Monthey",
                 "geoLevelParentnummer": "2308",
                 "resultat": {
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 26.696979539,
+                  "jaStimmenAbsolut": 822,
+                  "neinStimmenAbsolut": 2257,
+                  "stimmbeteiligungInProzent": 31.157562611,
+                  "eingelegteStimmzettel": 3160,
+                  "anzahlStimmberechtigte": 10142,
+                  "gueltigeStimmen": 3079
                 }
               },
               {
@@ -33025,14 +33025,14 @@
                 "geoLevelname": "Sion",
                 "geoLevelParentnummer": "2312",
                 "resultat": {
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 32.676290949,
+                  "jaStimmenAbsolut": 2354,
+                  "neinStimmenAbsolut": 4850,
+                  "stimmbeteiligungInProzent": 33.388528587,
+                  "eingelegteStimmzettel": 7259,
+                  "anzahlStimmberechtigte": 21741,
+                  "gueltigeStimmen": 7204
                 }
               },
               {
@@ -33340,14 +33340,14 @@
                 "geoLevelname": "VS-CH de l'étranger",
                 "geoLevelParentnummer": "9230",
                 "resultat": {
-                  "gebietAusgezaehlt": false,
-                  "jaStimmenInProzent": null,
-                  "jaStimmenAbsolut": null,
-                  "neinStimmenAbsolut": null,
-                  "stimmbeteiligungInProzent": null,
-                  "eingelegteStimmzettel": null,
-                  "anzahlStimmberechtigte": null,
-                  "gueltigeStimmen": null
+                  "gebietAusgezaehlt": true,
+                  "jaStimmenInProzent": 42.256809339,
+                  "jaStimmenAbsolut": 543,
+                  "neinStimmenAbsolut": 742,
+                  "stimmbeteiligungInProzent": 18.144008318,
+                  "eingelegteStimmzettel": 1396,
+                  "anzahlStimmberechtigte": 7694,
+                  "gueltigeStimmen": 1285
                 }
               }
             ]
@@ -35338,13 +35338,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 24.319498265,
-              "jaStimmenAbsolut": 216141,
-              "neinStimmenAbsolut": 672615,
-              "stimmbeteiligungInProzent": 39.295140997,
-              "eingelegteStimmzettel": 895183,
-              "anzahlStimmberechtigte": 2278101,
-              "gueltigeStimmen": 888756
+              "jaStimmenInProzent": 24.341823786,
+              "jaStimmenAbsolut": 217335,
+              "neinStimmenAbsolut": 675511,
+              "stimmbeteiligungInProzent": 39.298112066,
+              "eingelegteStimmzettel": 899309,
+              "anzahlStimmberechtigte": 2288428,
+              "gueltigeStimmen": 892846
             }
           },
           {
@@ -35366,13 +35366,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 35.530353959,
-              "jaStimmenAbsolut": 85092,
-              "neinStimmenAbsolut": 154399,
-              "stimmbeteiligungInProzent": 36.907637647,
-              "eingelegteStimmzettel": 243390,
-              "anzahlStimmberechtigte": 659457,
-              "gueltigeStimmen": 239491
+              "jaStimmenInProzent": 35.368086585,
+              "jaStimmenAbsolut": 89048,
+              "neinStimmenAbsolut": 162727,
+              "stimmbeteiligungInProzent": 36.451163115,
+              "eingelegteStimmzettel": 255932,
+              "anzahlStimmberechtigte": 702123,
+              "gueltigeStimmen": 251775
             }
           },
           {
@@ -35422,13 +35422,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 43.385755286,
-              "jaStimmenAbsolut": 59258,
-              "neinStimmenAbsolut": 77326,
-              "stimmbeteiligungInProzent": 40.553405414,
-              "eingelegteStimmzettel": 138103,
-              "anzahlStimmberechtigte": 340546,
-              "gueltigeStimmen": 136584
+              "jaStimmenInProzent": 42.849194648,
+              "jaStimmenAbsolut": 61612,
+              "neinStimmenAbsolut": 82176,
+              "stimmbeteiligungInProzent": 40.123438048,
+              "eingelegteStimmzettel": 145362,
+              "anzahlStimmberechtigte": 362287,
+              "gueltigeStimmen": 143788
             }
           },
           {
@@ -35450,13 +35450,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 26.534973561,
-              "jaStimmenAbsolut": 125905,
-              "neinStimmenAbsolut": 348582,
-              "stimmbeteiligungInProzent": 37.9896122,
-              "eingelegteStimmzettel": 478573,
-              "anzahlStimmberechtigte": 1259747,
-              "gueltigeStimmen": 474487
+              "jaStimmenInProzent": 26.558581228,
+              "jaStimmenAbsolut": 127921,
+              "neinStimmenAbsolut": 353735,
+              "stimmbeteiligungInProzent": 37.951330088,
+              "eingelegteStimmzettel": 485859,
+              "anzahlStimmberechtigte": 1280216,
+              "gueltigeStimmen": 481656
             }
           },
           {
@@ -35506,13 +35506,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 20.988280487,
-              "jaStimmenAbsolut": 50485,
-              "neinStimmenAbsolut": 190054,
-              "stimmbeteiligungInProzent": 40.041994318,
-              "eingelegteStimmzettel": 243145,
-              "anzahlStimmberechtigte": 607225,
-              "gueltigeStimmen": 240539
+              "jaStimmenInProzent": 21.024227477,
+              "jaStimmenAbsolut": 50722,
+              "neinStimmenAbsolut": 190533,
+              "stimmbeteiligungInProzent": 39.958447619,
+              "eingelegteStimmzettel": 243872,
+              "anzahlStimmberechtigte": 610314,
+              "gueltigeStimmen": 241255
             }
           },
           {
@@ -35562,13 +35562,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 24.503367003,
-              "jaStimmenAbsolut": 90241,
-              "neinStimmenAbsolut": 278039,
-              "stimmbeteiligungInProzent": 38.35311995,
-              "eingelegteStimmzettel": 370513,
-              "anzahlStimmberechtigte": 966057,
-              "gueltigeStimmen": 368280
+              "jaStimmenInProzent": 24.554878213,
+              "jaStimmenAbsolut": 91435,
+              "neinStimmenAbsolut": 280935,
+              "stimmbeteiligungInProzent": 38.370047031,
+              "eingelegteStimmzettel": 374639,
+              "anzahlStimmberechtigte": 976384,
+              "gueltigeStimmen": 372370
             }
           },
           {
@@ -35646,13 +35646,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 55.326083342,
-              "jaStimmenAbsolut": 16636,
-              "neinStimmenAbsolut": 13433,
-              "stimmbeteiligungInProzent": 33.840211335,
-              "eingelegteStimmzettel": 30488,
-              "anzahlStimmberechtigte": 90094,
-              "gueltigeStimmen": 30069
+              "jaStimmenInProzent": 50.948407695,
+              "jaStimmenAbsolut": 18990,
+              "neinStimmenAbsolut": 18283,
+              "stimmbeteiligungInProzent": 33.752403094,
+              "eingelegteStimmzettel": 37747,
+              "anzahlStimmberechtigte": 111835,
+              "gueltigeStimmen": 37273
             }
           },
           {
@@ -35674,13 +35674,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 34.402370999,
-              "jaStimmenAbsolut": 28555,
-              "neinStimmenAbsolut": 54448,
-              "stimmbeteiligungInProzent": 37.06503701,
-              "eingelegteStimmzettel": 84426,
-              "anzahlStimmberechtigte": 227778,
-              "gueltigeStimmen": 83003
+              "jaStimmenInProzent": 34.126762854,
+              "jaStimmenAbsolut": 29377,
+              "neinStimmenAbsolut": 56705,
+              "stimmbeteiligungInProzent": 36.813214526,
+              "eingelegteStimmzettel": 87586,
+              "anzahlStimmberechtigte": 237920,
+              "gueltigeStimmen": 86082
             }
           },
           {
@@ -35730,13 +35730,13 @@
             },
             "resultat": {
               "gebietAusgezaehlt": false,
-              "jaStimmenInProzent": 28.851662841,
-              "jaStimmenAbsolut": 15208,
-              "neinStimmenAbsolut": 37503,
-              "stimmbeteiligungInProzent": 41.281421165,
-              "eingelegteStimmzettel": 53587,
-              "anzahlStimmberechtigte": 129809,
-              "gueltigeStimmen": 52711
+              "jaStimmenInProzent": 28.908604264,
+              "jaStimmenAbsolut": 15445,
+              "neinStimmenAbsolut": 37982,
+              "stimmbeteiligungInProzent": 40.86893708,
+              "eingelegteStimmzettel": 54314,
+              "anzahlStimmberechtigte": 132898,
+              "gueltigeStimmen": 53427
             }
           },
           {
